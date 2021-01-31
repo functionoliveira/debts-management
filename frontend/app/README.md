@@ -1,24 +1,8 @@
-# app
+# App
+Aplicação frontend desenvolvida em VueJS.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Pre Requisitos
+1. Ter o node e npm instalados na máquina.
+## Passos para rodar o projeto
+* Dentro da pasta app execute o comando <code>npm install</code>.
+* Assim que ele finalizar execute <code>npm run serve</code>.
